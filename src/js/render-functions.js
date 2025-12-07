@@ -43,7 +43,6 @@ export function clearGallery() {
   galleryContainer.innerHTML = '';
 }
 
-// твій loader працює ТІЛЬКИ через class on body
 export function showLoader() {
   document.body.classList.add('loading');
 }

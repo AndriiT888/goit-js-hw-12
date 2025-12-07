@@ -19,7 +19,6 @@ body.loading .loader {
   animation: rotation 2s linear infinite;
 }
 
-/* Loader spinner (double ring) */
 .loader:after {
   content: '';
   display: block;
