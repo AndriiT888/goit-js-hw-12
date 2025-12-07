@@ -1,0 +1,10 @@
+.info {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  gap: 4px;
+}
+
+.item-descr-item {
+  font-weight: bold !important;
+}
